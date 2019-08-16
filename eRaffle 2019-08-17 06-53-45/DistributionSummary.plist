@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eRaffle.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+				<key>dateExpires</key>
+				<string>15/08/2020</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>CSV.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>DynamicBlurView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>LTMorphingLabel.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>MarqueeLabel.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>PopupDialog.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>SlotLabel.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>TOMSMorphingLabel.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>TTFortuneWheel.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1BF70041ACF7664028C0E5565308AC55F5F4C0A</string>
+						<key>dateExpires</key>
+						<string>15/08/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>ZCAnimatedLabel.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>R96LRPBM2L</string>
+						<key>name</key>
+						<string>Al Villarica</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>R96LRPBM2L.com.RobbieVillarica.eRaffle</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>R96LRPBM2L</string>
+				<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+				<string>R96LRPBM2L.com.RobbieVillarica.eRaffle</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>R96LRPBM2L.com.RobbieVillarica.eRaffle</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>eRaffle.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>292cc0cb-81f5-40a4-975a-0a08c1596940</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.RobbieVillarica.eRaffle</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>R96LRPBM2L</string>
+				<key>name</key>
+				<string>Al Villarica</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
